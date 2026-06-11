@@ -1,4 +1,4 @@
-# Sacred-Threads-Agent
+# Sacred Threads Of India
 AI Reasoning Agent that categorizes and explains religious clothing traditions of India using Foundry IQ 
 # Sacred Threads of India – AI Cultural Heritage & Religious Traditions Reasoning Agent
 
