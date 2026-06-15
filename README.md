@@ -53,7 +53,7 @@ Input → Reasoning Framework → Foundry IQ Retrieval → Structured Explanatio
 2. Run the Sacred Threads agent.
 3. Enter a query (e.g., “Jain puja clothes”).
 4. View structured explanation with cultural context and citations.
-5. Watch demo video (link will be added here).
+5. LIVE INTERACTIVE AI AGENT: https://ai.azure.com/nextgen/r/zqUgch82TLSvGOVajjm0LA,RIMO,,ridzzz99999-8413-resource,ridzzz99999-8413/agents/RIMO/preview?version=2
 
 ## Hackathon Submission
 This repository is part of the Agents League Hackathon (AISF 2026), Reasoning Agents track.  
